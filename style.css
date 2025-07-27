@@ -2,6 +2,9 @@
 
 body {
    background-image: url('test.jpeg');
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
